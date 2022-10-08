@@ -1,4 +1,4 @@
-# Task-8
+# Task-7
 Assignment 11 DataPreprocessing,
 Assignment 12 Logistic Regression,
 Assignment 13 K-NN,
